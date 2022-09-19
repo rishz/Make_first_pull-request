@@ -5,3 +5,5 @@ Contributors add your name here :
 - Rishabh Bansal (https://github.com/rishabh-bansal)
 
 - Rishabh Shukla (https://github.com/rishz)
+
+- Vinayak Kamble (https://github.com/Vinayakkamble07)
